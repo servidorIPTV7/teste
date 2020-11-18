@@ -1,1 +1,1 @@
-https://iptv-org.github.io/iptv/categories/xxx.m3u
+https://iptv-org.github.io/iptv/index.m3u
